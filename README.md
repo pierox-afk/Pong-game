@@ -7,4 +7,8 @@ A simple Pong game clone made with HTML, CSS and JavaScript.
 - Use the up/down arrow keys (or W/S) to move the …
 ## Getting Started
 
-Just clone this repo and open `index.html` in your browser!
+just clone this repo and open `index.html` in your browser!
+
+## License
+
+MIT
